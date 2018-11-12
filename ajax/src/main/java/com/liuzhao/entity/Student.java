@@ -1,6 +1,6 @@
 package com.liuzhao.entity;
 //学生类
-//
+//aaa
 public class Student {
 	private int age;
 	private String name;
